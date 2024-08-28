@@ -1,12 +1,12 @@
 # Mine-Coders
 
-*Problem Statement Title:*
+## Problem Statement Title:
 An app and web-based software for productivity and safety management of coal mines. (PS -SIH1645)
 
-##Solution brief:
+## Solution brief:
 We aim to develop a web and app-based software solution for safety management in coal mines, prioritizing accident prevention and worker health. The software will also optimize the use of machinery, labour, and materials to maximize productivity.
 
-##Functionalities: -
+## Functionalities: -
 
 	Simply sign in/ login on the software platform and fill up the details.
 
@@ -16,17 +16,17 @@ We aim to develop a web and app-based software solution for safety management in
 
 	The platform will catalogue the experience and skills of each worker, enabling management to efficiently assign labour to tasks that align with their specific expertise.
 
-##Future Aspect: 
+## Future Aspect: 
 
-###Business aspect- 
+### Business aspect- 
 
 o	 Forming ties with other countries, particularly in industries like coal mining, involves strategic partnerships that can lead to mutual benefits in safety management, technology exchange, and productivity improvements.
 
-###Technology aspect-  
+### Technology aspect-  
 
 o	 Adopting automation and monitoring systems from more developed countries can improve efficiency and reduce risks in coal mines.
 
-##Technologies to be used:
+## Technologies to be used:
 
 •	Analysis - Microsoft Power BI, AI/ML
 
