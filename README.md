@@ -1,6 +1,6 @@
 # Mine-Coders
 
-##Problem Statement Title:
+*Problem Statement Title:*
 An app and web-based software for productivity and safety management of coal mines. (PS -SIH1645)
 
 ##Solution brief:
