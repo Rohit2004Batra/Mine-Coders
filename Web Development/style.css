@@ -1,0 +1,175 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header img {
+    height: 80px;
+}
+
+.navbar {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+}
+
+.navbar a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+.user-icon a {
+    color: #fff;
+    font-size: 24px;
+}
+
+/* Hamburger Menu Styling */
+.hamburger-menu {
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+    position: absolute;
+    left: 20px;
+    top: 10px;
+}
+
+.hamburger-menu .bar {
+    width: 25px;
+    height: 3px;
+    background-color: #fff;
+    margin: 4px 0;
+    transition: 0.4s;
+}
+
+/* Sidebar Menu Styling */
+.sidebar {
+    display: none;
+    flex-direction: column;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 250px;
+    height: 100%;
+    padding: 20px;
+    z-index: 1000;
+}
+
+.sidebar a {
+    padding: 15px;
+    color: #fff;
+    text-decoration: none;
+    border-bottom: 1px solid #444;
+    display: block;
+}
+
+.sidebar a:hover {
+    background-color: #444;
+}
+
+.slideshow {
+    margin-top: 20px;
+}
+
+.carousel-item img {
+    height: 400px;
+    object-fit: cover;
+}
+
+.empowering-mines {
+    font-size: 2.5em;
+    margin-top: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.platform {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+footer .social-media {
+    margin-top: 10px;
+}
+
+footer .social-media a {
+    display: inline-block;
+    margin: 0 5px;
+    color: #fff;
+    font-size: 20px;
+}
+
+.footer-links {
+    margin-top: 10px;
+}
+
+.footer-links a:hover {
+    text-decoration: underline;
+}
+
+/* Header styling */
+.upper {
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    padding: 10px 20px;
+    background-color: white;
+    color: black;
+}
+
+
+
+.logo {
+    height: 80px;
+}
+
+.left-logo {
+    margin-left: 45%;
+    width: auto;
+}
+/* Add styles for the cancel button */
+.cancel-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 24px;
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+}
+
+/* Add styles for the sidebar header */
+.sidebar-header {
+    padding: 10px;
+    background-color: #333;
+    border-bottom: 1px solid #444;
+}
